@@ -1,0 +1,2 @@
+INSERT INTO users (username, email, name, password, role) VALUES ('admin', 'admin@test.test', 'Administrator', '123123', 'ADMIN_ROLE');
+INSERT INTO users (username, email, name, password, role) VALUES ('editor', 'editor@test.test', 'Editor', '123123', 'EDITOR_ROLE');
